@@ -1,5 +1,5 @@
 STUID = 3121356019
-STUNAME = Han Yingming
+STUNAME = Han YingMing
 
 # DO NOT modify the following code!!!
 
